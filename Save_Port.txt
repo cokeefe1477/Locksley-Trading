@@ -1,0 +1,7 @@
+10000 10000.0 9189.06 0.0 0.63 0.3 810.9599999999999 0 810.67 0
+FTDR 2.6 49.94 49.94 129.84 0.0 0.16 0.16 Sell
+AAPL 5.57 122.24 122.24 680.85 0.0 0.84 0.84 Sell
+None None None None None None None None None
+None None None None None None None None None
+None None None None None None None None None
+None None None None None None None None None
